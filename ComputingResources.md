@@ -5,15 +5,22 @@ rank: 4
 ---
 
 ### Computing resources
-For most projects (especially those using behavioral data), your laptop will be more than sufficient to run Python
-. If you need more heavy lifting, there are a few options:
-- ALICE supercomputer @ Leiden Uni
-  - [Get an account](https://wiki.alice.universiteitleiden.nl/index.php?title=ALICE_User_Documentation_Wiki)
-- LISA / Cartesius clusters @ SurfSara
-  - [Apply through NWO](https://userinfo.surfsara.nl/systems/lisa/account). Very well managed, but since Leiden doesn
-  ’t have a contract with SurfSara you have to apply to extend your account every year.
+For most analysis projects, your lab computer or laptop will be sufficient to run Python / Matlab.
+. If you need more heavy lifting, there are currently three few options:
+- Station 1
+  - Specs:
+  - There is currently one account called jwdegee
+  - Login physically from the lab, or via AnyDesk
+- Station 2
+ - Specs: 
+ - Ask JW de Gee to create an account for you.
+ - Login via `ssh -YCX username@10.34.12.20`.
+- Station 3
+ - Specs: 
+ - Ask JW de Gee to create an account for you.
+ - Login via `ssh -YCX username@10.34.12.43`.
 
-## Python and data analysis basics
+### Python and data analysis basics
 * Know your way around the command line
     * [Basic cheatsheet](https://github.com/moriahtaylor1/teaching-materials/blob/main/infographics/GIT%20GUIDE%20Part%201%20-%20INTRO.png)
 * Understand what a virtual environment is
