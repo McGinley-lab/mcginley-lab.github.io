@@ -5,20 +5,19 @@ rank: 5
 ---
 
 ### Computing resources
-For most analysis projects, your lab computer or laptop will be sufficient to run Python / Matlab.
-. If you need more heavy lifting, there are currently three few options:
-- Station 1
-  - Specs:
-  - There is currently one account called jwdegee
-  - Login physically from the lab, or via AnyDesk
-- Station 2
- - Specs: 
- - Ask JW de Gee to create an account for you.
- - Login via `ssh -YCX username@10.34.12.20`.
-- Station 3
- - Specs: 
- - Ask JW de Gee to create an account for you.
- - Login via `ssh -YCX username@10.34.12.43`.
+For most analysis projects, your lab computer or laptop will be sufficient to run Python / Matlab. If you need more heavy lifting, there are currently three few options:
+* Station 1
+    * Specs:
+    * There is currently one account called jwdegee
+    * Login physically from the lab, or via AnyDesk
+* Station 2
+    * Specs: 
+    * Ask JW de Gee to create an account for you.
+    * Login via `ssh -YCX username@10.34.12.20`.
+* Station 3
+    * Specs: 
+    * Ask JW de Gee to create an account for you.
+    * Login via `ssh -YCX username@10.34.12.43`.
 
 ### Python and data analysis basics
 * Know your way around the command line
