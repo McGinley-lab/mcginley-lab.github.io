@@ -1,2 +1,1 @@
-# mcginley-lab.github.io
-McGinley lab info
+See https://anne-urai.github.io/lab_wiki/ for the GitHub Pages wiki.
