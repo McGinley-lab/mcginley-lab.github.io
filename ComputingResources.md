@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computing and data analysis
-rank: 4
+rank: 5
 ---
 
 ### Computing resources
